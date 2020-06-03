@@ -1,2 +1,4 @@
-# codigo
-Meu código pessoal de cosmoética
+# Código Pessoal de Cosmoética
+
+
+- Manter-se harmonizado e compreensivo perante ações religiosas (pregações, oração em línguas, exorcismo etc).
