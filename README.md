@@ -9,3 +9,5 @@
 + Quais atitudes serão percebidas como repeitosas? Quais serão consideradas desrespeitosas?
 + Do que a pessoa está necessitando? O que eu posso fazer por ela?
 + Quais os pensamentos e atitudes dela eu discordo? E por que?
+
++ Integrar: "É muito mais eficaz fazer os outros concordarem com você por suas atitudes, sem dizer uma palavra. Demonstre, não explique."
